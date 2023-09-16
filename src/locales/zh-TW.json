@@ -46,6 +46,7 @@
     "exportEmbedScene_details": "用於回復場景的場景資料會被包含在輸出的 PNG/SVG 檔案中。\n會增加輸出的檔案大小。",
     "addWatermark": "加上 \"Made with Excalidraw\" 浮水印",
     "handDrawn": "手寫",
+    "handDrawnCN": "手寫(中文)",
     "normal": "一般",
     "code": "代碼",
     "small": "小",

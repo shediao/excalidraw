@@ -46,6 +46,7 @@
     "exportEmbedScene_details": "Scene data will be saved into the exported PNG/SVG file so that the scene can be restored from it.\nWill increase exported file size.",
     "addWatermark": "Add \"Made with Excalidraw\"",
     "handDrawn": "Hand-drawn",
+    "handDrawnCN": "Hand-drawn-cn",
     "normal": "Normal",
     "code": "Code",
     "small": "Small",
