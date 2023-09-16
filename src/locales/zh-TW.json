@@ -42,6 +42,7 @@
     "fontFamily": "字體集",
     "addWatermark": "加上 \"Made with Excalidraw\" 浮水印",
     "handDrawn": "手寫",
+    "handDrawnCN": "手寫(中文)",
     "normal": "一般",
     "code": "代碼",
     "small": "小",
